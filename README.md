@@ -1,2 +1,2 @@
 # beacademy-devstart-gitegithub
-conhecendo git e git hub
+conhecendo git e git hub, ajustes na configuração
